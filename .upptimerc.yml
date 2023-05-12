@@ -14,7 +14,7 @@ sites:
 status-website:
   cname: status.swift-format.com
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: SwiftFormatter Status
+  name: Swift Formatter Status
   navbar:
     - title: Status
       href: /
