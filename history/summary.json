@@ -4,7 +4,7 @@
     "url": "https://swift-format.com/",
     "icon": "https://icons.duckduckgo.com/ip3/swift-format.com.ico",
     "slug": "swift-format-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 247,
     "timeYear": 322,
     "dailyMinutesDown": {
+      "2024-06-04": 0,
       "2024-05-01": 35,
       "2024-04-30": 52,
       "2024-03-20": 32,
