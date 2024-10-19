@@ -6,14 +6,14 @@
     "slug": "swift-format-com",
     "status": "up",
     "uptime": "99.37%",
-    "uptimeDay": "97.83%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.69%",
     "uptimeMonth": "98.97%",
     "uptimeYear": "99.61%",
     "time": 498,
-    "timeDay": 7273,
-    "timeWeek": 2635,
-    "timeMonth": 1380,
+    "timeDay": 261,
+    "timeWeek": 2628,
+    "timeMonth": 1383,
     "timeYear": 574,
     "dailyMinutesDown": {
       "2024-10-17": 31,
@@ -40,8 +40,7 @@
       "2023-12-07": 238,
       "2023-11-03": 25,
       "2023-10-31": 75,
-      "2023-10-30": 24,
-      "2023-10-20": 21
+      "2023-10-30": 24
     }
   },
   {
@@ -51,14 +50,14 @@
     "slug": "swift-format-com-api",
     "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "97.89%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.70%",
     "uptimeMonth": "98.98%",
     "uptimeYear": "99.67%",
     "time": 310,
-    "timeDay": 6083,
-    "timeWeek": 2094,
-    "timeMonth": 1092,
+    "timeDay": 101,
+    "timeWeek": 2095,
+    "timeMonth": 1093,
     "timeYear": 383,
     "dailyMinutesDown": {
       "2024-10-17": 30,
@@ -83,8 +82,7 @@
       "2023-12-07": 234,
       "2023-11-03": 24,
       "2023-10-31": 54,
-      "2023-10-30": 38,
-      "2023-10-20": 19
+      "2023-10-30": 38
     }
   }
 ]
