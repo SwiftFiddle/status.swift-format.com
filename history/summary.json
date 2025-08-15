@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/swift-format.com.ico",
     "slug": "swift-format-com",
     "status": "up",
-    "uptime": "97.52%",
+    "uptime": "97.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.21%",
     "time": 614,
-    "timeDay": 312,
-    "timeWeek": 276,
-    "timeMonth": 218,
-    "timeYear": 556,
+    "timeDay": 156,
+    "timeWeek": 275,
+    "timeMonth": 219,
+    "timeYear": 555,
     "dailyMinutesDown": {
       "2025-05-24": 143,
       "2025-05-23": 74,
@@ -44,8 +44,7 @@
       "2024-10-17": 31,
       "2024-10-05": 266,
       "2024-10-04": 152,
-      "2024-09-01": 47,
-      "2024-08-15": 19
+      "2024-09-01": 47
     }
   },
   {
@@ -54,16 +53,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/swift-format.com.ico",
     "slug": "swift-format-com-api",
     "status": "up",
-    "uptime": "99.46%",
+    "uptime": "99.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.52%",
     "time": 423,
-    "timeDay": 190,
-    "timeWeek": 137,
+    "timeDay": 100,
+    "timeWeek": 141,
     "timeMonth": 112,
-    "timeYear": 455,
+    "timeYear": 454,
     "dailyMinutesDown": {
       "2025-05-24": 143,
       "2025-05-23": 72,
@@ -74,8 +73,7 @@
       "2024-10-17": 30,
       "2024-10-05": 266,
       "2024-10-04": 150,
-      "2024-09-01": 47,
-      "2024-08-15": 70
+      "2024-09-01": 47
     }
   }
 ]
