@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/swift-format.com.ico",
     "slug": "swift-format-com",
     "status": "up",
-    "uptime": "97.66%",
+    "uptime": "97.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.22%",
     "time": 546,
-    "timeDay": 374,
-    "timeWeek": 238,
+    "timeDay": 251,
+    "timeWeek": 247,
     "timeMonth": 235,
     "timeYear": 577,
     "dailyMinutesDown": {
@@ -43,8 +43,7 @@
       "2024-11-19": 150,
       "2024-10-24": 45,
       "2024-10-17": 31,
-      "2024-10-05": 266,
-      "2024-10-04": 152
+      "2024-10-05": 266
     }
   },
   {
@@ -59,9 +58,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.54%",
     "time": 438,
-    "timeDay": 128,
-    "timeWeek": 103,
-    "timeMonth": 1004,
+    "timeDay": 104,
+    "timeWeek": 104,
+    "timeMonth": 1002,
     "timeYear": 412,
     "dailyMinutesDown": {
       "2025-09-24": 23,
@@ -72,8 +71,7 @@
       "2024-11-19": 149,
       "2024-10-24": 45,
       "2024-10-17": 30,
-      "2024-10-05": 266,
-      "2024-10-04": 150
+      "2024-10-05": 266
     }
   }
 ]
