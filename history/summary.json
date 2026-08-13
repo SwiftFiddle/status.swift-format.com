@@ -4,17 +4,17 @@
     "url": "https://swift-format.com/",
     "icon": "https://icons.duckduckgo.com/ip3/swift-format.com.ico",
     "slug": "swift-format-com",
-    "status": "up",
+    "status": "down",
     "uptime": "97.46%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.31%",
-    "time": 617,
-    "timeDay": 375,
-    "timeWeek": 241,
-    "timeMonth": 223,
-    "timeYear": 726,
+    "time": 691,
+    "timeDay": 18461,
+    "timeWeek": 4779,
+    "timeMonth": 1358,
+    "timeYear": 821,
     "dailyMinutesDown": {
       "2025-08-26": 24,
       "2025-10-23": 1269,
@@ -32,7 +32,8 @@
       "2026-03-18": 60,
       "2026-04-06": 56,
       "2026-05-28": 95,
-      "2026-05-29": 110
+      "2026-05-29": 110,
+      "2026-08-13": 2
     }
   },
   {
@@ -40,17 +41,17 @@
     "url": "https://swift-format.com/api",
     "icon": "https://icons.duckduckgo.com/ip3/swift-format.com.ico",
     "slug": "swift-format-com-api",
-    "status": "up",
+    "status": "down",
     "uptime": "98.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.34%",
-    "time": 498,
-    "timeDay": 198,
-    "timeWeek": 151,
-    "timeMonth": 146,
-    "timeYear": 615,
+    "time": 572,
+    "timeDay": 18287,
+    "timeWeek": 4679,
+    "timeMonth": 1278,
+    "timeYear": 711,
     "dailyMinutesDown": {
       "2025-09-24": 23,
       "2025-10-23": 1269,
@@ -66,7 +67,8 @@
       "2025-11-11": 21,
       "2025-11-23": 20,
       "2026-05-28": 94,
-      "2026-05-29": 108
+      "2026-05-29": 108,
+      "2026-08-13": 0
     }
   }
 ]
