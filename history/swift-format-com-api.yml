@@ -1,7 +1,7 @@
 url: https://swift-format.com/api
-status: up
-code: 200
-responseTime: 126
-lastUpdated: 2026-08-27T04:18:33.535Z
+status: down
+code: 503
+responseTime: 35628
+lastUpdated: 2026-08-27T23:52:45.337Z
 startTime: 2023-05-12T10:59:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
