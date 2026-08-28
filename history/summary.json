@@ -4,17 +4,17 @@
     "url": "https://swift-format.com/",
     "icon": "https://icons.duckduckgo.com/ip3/swift-format.com.ico",
     "slug": "swift-format-com",
-    "status": "down",
-    "uptime": "97.46%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "98.84%",
-    "uptimeYear": "97.22%",
+    "status": "up",
+    "uptime": "97.44%",
+    "uptimeDay": "71.12%",
+    "uptimeWeek": "95.87%",
+    "uptimeMonth": "97.89%",
+    "uptimeYear": "97.14%",
     "time": 834,
-    "timeDay": 17799,
-    "timeWeek": 5189,
-    "timeMonth": 3373,
-    "timeYear": 942,
+    "timeDay": 17817,
+    "timeWeek": 4572,
+    "timeMonth": 3377,
+    "timeYear": 940,
     "dailyMinutesDown": {
       "2025-10-23": 1269,
       "2025-10-22": 1440,
@@ -34,7 +34,8 @@
       "2026-05-29": 110,
       "2026-08-14": 233,
       "2026-08-13": 274,
-      "2026-08-27": 2
+      "2026-08-28": 407,
+      "2026-08-27": 9
     }
   },
   {
@@ -42,17 +43,17 @@
     "url": "https://swift-format.com/api",
     "icon": "https://icons.duckduckgo.com/ip3/swift-format.com.ico",
     "slug": "swift-format-com-api",
-    "status": "down",
-    "uptime": "98.80%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.85%",
-    "uptimeYear": "97.24%",
+    "status": "up",
+    "uptime": "98.77%",
+    "uptimeDay": "71.26%",
+    "uptimeWeek": "95.89%",
+    "uptimeMonth": "97.90%",
+    "uptimeYear": "97.16%",
     "time": 720,
-    "timeDay": 17877,
-    "timeWeek": 5207,
-    "timeMonth": 3333,
-    "timeYear": 901,
+    "timeDay": 17937,
+    "timeWeek": 4587,
+    "timeMonth": 3337,
+    "timeYear": 900,
     "dailyMinutesDown": {
       "2025-09-24": 23,
       "2025-10-23": 1269,
@@ -71,7 +72,8 @@
       "2026-05-29": 108,
       "2026-08-14": 233,
       "2026-08-13": 272,
-      "2026-08-27": 0
+      "2026-08-28": 407,
+      "2026-08-27": 7
     }
   }
 ]
